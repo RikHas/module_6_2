@@ -6,8 +6,6 @@ class Vehicle:
         self.__engine_power = engine_power
         self.__color = color
 
-
-
     def get_model(self):
         return f'Модель: {self.__model}'
 
