@@ -44,6 +44,3 @@ vehicle1.owner = 'Vasyok'
 
 # Проверяем что поменялось
 vehicle1.print_info()
-
-
-
